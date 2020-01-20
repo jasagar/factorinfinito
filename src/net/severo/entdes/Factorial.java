@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Jaime Sansano Garcia
  *
  */
 public class Factorial {
